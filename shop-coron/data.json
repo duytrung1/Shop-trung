@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 14",
+      "info": "The latest Apple iPhone with A15 Bionic chip",
+      "detail": "iPhone 14 features a new design, an upgraded camera system, and longer battery life.",
+      "price": 999,
+      "imageName": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+      "ratingStar": 4.7,
+      "manufacturerId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "info": "Samsung's flagship smartphone with advanced features",
+      "detail": "Galaxy S23 offers a stunning display, powerful processor, and versatile camera setup.",
+      "price": 899,
+      "imageName": "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-xanh-la-thumb-new-600x600.jpg",
+      "ratingStar": 4.6,
+      "manufacturerId": 2,
+      "categoryId": 1
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5",
+      "info": "Noise-cancelling wireless headphones with superior sound",
+      "detail": "The Sony WH-1000XM5 provides industry-leading noise cancellation and exceptional sound quality.",
+      "price": 349,
+      "imageName": "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+      "ratingStar": 4.8,
+      "manufacturerId": 3,
+      "categoryId": 2
+    },
+    {
+      "id": "4",
+      "name": "Dell XPS 13",
+      "info": "Compact and powerful laptop with stunning display",
+      "detail": "Dell XPS 13 features a 13.4-inch InfinityEdge display, Intel i7 processor, and up to 16GB RAM.",
+      "price": 1200,
+      "imageName": "https://cdn.tgdd.vn/Products/Images/42/303891/iphone-15-plus-xanh-la-128gb-thumb-600x600.jpg",
+      "ratingStar": 4.5,
+      "manufacturerId": 4,
+      "categoryId": 3
+    }
+    
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Smartphones"
+    },
+    {
+      "id": "2",
+      "name": "Headphones"
+    },
+    {
+      "id": "3",
+      "name": "Laptops"
+    },
+    {
+      "id": "4",
+      "name": "Speakers"
+    },
+    {
+      "id": "25",
+      "name": "Apple HuWei"
+    }
+  ],
+  "manufacturers": [
+    {
+      "id": "1",
+      "name": "Apple"
+    },
+    {
+      "id": "2",
+      "name": "Samsung"
+    },
+    {
+      "id": "3",
+      "name": "Sony"
+    },
+    {
+      "id": "4",
+      "name": "Dell"
+    },
+    {
+      "id": "5",
+      "name": "Google"
+    },
+    {
+      "id": "6",
+      "name": "Bose"
+    },
+    {
+      "id": "7",
+      "name": "Microsoft"
+    },
+    {
+      "id": "8",
+      "name": "OnePlus"
+    },
+    {
+      "id": "9",
+      "name": "HP"
+    },
+    {
+      "id": "10",
+      "name": "Xiaomi"
+    },
+    {
+      "id": "11",
+      "name": "JBL"
+    },
+    {
+      "id": "12",
+      "name": "Asus"
+    },
+    {
+      "id": "13",
+      "name": "Lenovo"
+    }
+  ]
+}
